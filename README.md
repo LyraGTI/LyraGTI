@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LyraGTI&color=0000ff "><br>
 <div align="center">
   <a href="https://github.com/LyraGTI">
- <img align="center" src="Welcome.gif" width="500">
+ <img align="center" src="welcome.gif" width="500">
   </a>
 </div>
 <br>
