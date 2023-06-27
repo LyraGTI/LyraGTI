@@ -93,11 +93,7 @@ Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pela Estácio de S�
   <br>
 </div>
 
-<div align="right">
-  <a href="https://github.com/LyraGTI">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyraGTI&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
 
 <div align="center">
 
