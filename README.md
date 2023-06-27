@@ -67,7 +67,7 @@ Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pela Estácio de S�
 ## 👨🏻‍💻 Hard Skills 👨🏻‍💻
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=LyraGTI&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-<div align="right" ><!--Java --> <img src="https://img.shields.io/badge/Java-964b00?style=for-the-badge&logo=java&logoColor=red">
+<div align="right" ><!--Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <!--Eclipse --> <img src="https://camo.githubusercontent.com/67b5b69be4a5a807bc1f147f79a9c302e98ec32d840fce4d0273876b0429463e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d45636c697073652b49444526636f6c6f723d324332323535266c6f676f3d45636c697073652b494445266c6f676f436f6c6f723d464646464646266c6162656c3d">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
@@ -88,9 +88,20 @@ Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pela Estácio de S�
   <!--ORACLE--> <img src="https://camo.githubusercontent.com/78d0180d1fc02fe9487b88f6e74cfcf3d8a575c319759f45fed678798df7d97c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f7261636c6526636f6c6f723d463830303030266c6f676f3d4f7261636c65266c6f676f436f6c6f723d464646464646266c6162656c3d">
    <!--vsCODE--> <img src="https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d">
    <!--JIRA--> <img src="https://camo.githubusercontent.com/3938162e4941125bece1c4e00bad5154f9777487f87d1aed8d3319778506323f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a69726126636f6c6f723d303035324343266c6f676f3d4a697261266c6f676f436f6c6f723d464646464646266c6162656c3d">
-  
-  
-  
+  <!-- GIT --> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
   <br>
+</div>
+
+<div align="center">
+  <a href="https://github.com/LyraGTI">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyraGTI&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
